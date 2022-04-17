@@ -53,6 +53,10 @@ Arabic locale translation for FeedBro Firefox plugin
 
 الترجمات التي أنشأها المجتمع
 
+اللغة العربية :
+
+https://raw.githubusercontent.com/JaMaYcKa2B1/Feedbro-locale-ar_SA/master/feedbro-locale-ar_SA.json
+
 اللغة الصينية (CN):
 https://raw.githubusercontent.com/YEWl/feedbro-locale/master/feedbro-locale-zh_CN.json
 
