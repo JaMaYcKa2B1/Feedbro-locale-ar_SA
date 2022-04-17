@@ -13,4 +13,4 @@ https://raw.githubusercontent.com/JaMaYcKa2B1/Feedbro-locale-ar_SA/master/feedbr
 Feedbro-locale-ar_SA
 
 Arabic locale translation for FeedBro Firefox plugin عربي قارئ موجز متقدم - اقرأ الأخبار والمدونات أو أي مصدر RSS / Atom / RDF. الوصف ? عربي 
-https://github.com/JaMaYcKa2B1/Feedbro-locale-ar_SA/blob/master/README-Ar.md
+[. الوصف ? عربي] (https://github.com/JaMaYcKa2B1/Feedbro-locale-ar_SA/blob/master/README-Ar.md "Go to Feedbro Project homepage") 
